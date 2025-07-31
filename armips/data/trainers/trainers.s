@@ -16746,8 +16746,8 @@ trainerdata 497, "Boy"
         // mon 0
         ivs 0
         abilityslot 0
-        level 5
-        pokemon SPECIES_TOTODILE
+        level 100
+        pokemon SPECIES_KYUREM
         ballseal 0
     endparty
 
